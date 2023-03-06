@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/vue-app": "^2.16.2",
+    "@nuxtjs/i18n": "^7.3.1",
+    "consola": "^2.15.3",
+    "cookie": "^0.5.0",
+    "core-js": "^3.29.0",
+    "js-cookie": "^3.0.1",
+    "node-fetch-native": "^1.0.2",
+    "nuxt": "^2.16.2",
+    "postcss": "^8.0.9",
+    "tailwindcss": "^3.2.4",
+    "tailwindcss-rtl": "^0.9.0",
+    "ufo": "^1.1.1",
+    "vue": "^2.7.14",
+    "vue-client-only": "^2.1.0",
+    "vue-i18n": "^8.28.2",
+    "vue-meta": "^2.4.0",
+    "vue-no-ssr": "^1.1.1",
+    "vue-router": "^3.6.5",
+    "vue-template-compiler": "^2.7.14",
+    "webpack": "4"
+  }
+}
